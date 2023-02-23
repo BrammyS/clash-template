@@ -13,8 +13,14 @@
         },
         // Add the IDs of extensions you want installed when the container is created.
         "extensions": [
-          "haskell.haskell"
-        ]
+            "haskell.haskell",
+            "puorc.awesome-vhdl",
+            "streetsidesoftware.code-spell-checker",
+            "heaths.vscode-guid",
+            "foxundermoon.shell-format",
+            "wayou.vscode-todo-highlight",
+            "yzhang.markdown-all-in-one"
+          ]
       }
     },
     // Comment out to connect as root instead. To add a non-root user, see: https://aka.ms/vscode-remote/containers/non-root.
